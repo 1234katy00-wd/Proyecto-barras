@@ -1,0 +1,26 @@
+.caja {
+    display:inline-block;
+    width: 30%;
+    border:1px solido black;
+    height: 200px;
+}
+.c-1{
+    background-color: lightgreen;}
+
+.c-2{
+    background-color: fuchsia;
+
+}
+.c-3{
+    background-color: blue;
+    text-align: center;
+}
+
+p{
+    color:white;
+}
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+}

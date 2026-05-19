@@ -1,0 +1,71 @@
+body{
+    overflow: hidden;
+}
+/*NAVEGADOR*/
+.network{
+    background-color: rgb(30, 27, 27);
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 25px;
+}
+/*BARRA DE FOTO*/
+main{
+    display: flex;
+    border: 2px solid purple;
+}
+.foto{
+    border: 2px solid black;
+    margin-top: 90px;
+    height: 250px;
+    border-radius: 10px;
+}
+.imagen{
+    height: 150px;
+    margin-left: 35px;
+    margin-bottom: 25px;
+    margin-right: 20px;
+    padding: 15px;
+}
+.nombre{
+    text-align: center;
+    font-size: 18px;
+}
+.der{
+    flex:1;
+}
+/*BARRA DE PERFIL */
+h1{
+    font-size: 35px;
+    margin-left: 20px;
+}
+.izq{
+    flex:5;
+}
+
+.linn,.lina, .mateo{
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin:10px;
+    border-radius: 10px;
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.link{
+    color: blue;
+}
+h2, .link{
+    font-size: 14px;
+    font-family: italic;
+}
+.btn-1, .btn-2, .btn-3{
+    border: none;
+    background-color: yellow;
+    padding: 10px 20px;
+}

@@ -1,0 +1,18 @@
+.lin{
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+.link{
+    color: blue;
+}
+h2, .link{
+    font-size: 14px;
+    font-family: italica;
+}
+.btn-1{
+    border: none;
+    background-color: yellow;
+    padding: 10px 20px;
+}

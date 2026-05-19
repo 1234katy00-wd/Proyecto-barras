@@ -1,0 +1,26 @@
+.clase-1{
+    background-color: rgb(190, 186, 186);
+    border-radius: 15px;
+    padding: 10px 20px;
+    border: 1px solid black;
+
+
+
+}
+.clase-2{
+    background-color: orangered;
+    border-radius: 50px;
+    color: aliceblue;
+    padding: 15px 20px;
+    border: none;
+    font-size:large;
+}
+
+.clase-3{
+    background-color: rgb(48, 131, 221);
+    box-shadow: 5px 5px 5px rgb(177, 176, 176);
+    margin:0;
+    border: none;
+    padding: 10px 20px;
+    color: blanchedalmond;
+}

@@ -1,0 +1,31 @@
+.boxModel{
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    margin-right: 70px;
+    margin: 40px 70px 50px 30px; /*Sentido del reloj*/
+    margin: 40px;/*es el mismo margen para todos lados*/
+
+    padding-top:10px ;
+    padding-left: 20;
+    padding-bottom: 50px;
+    padding-right:30px;
+
+    border-width: 3px;
+    border-color: red;
+    border-style: double;
+    border:solid 7 px red ;
+
+    border-top:dashed 7px red;
+    border-left: dotted 10px yellow;
+    border-bottom:solid 5px green ;
+    border-right: groove 12px blue;
+
+    border-radius:20px;
+
+    overflow: hidden;
+}
